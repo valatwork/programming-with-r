@@ -25,6 +25,7 @@ workspace.xml
 # RStudio files
 .Rproj.user/
 .idea/
+.Rproj
 
 # Produced vignettes
 vignettes/*.html
