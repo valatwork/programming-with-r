@@ -56,3 +56,4 @@ rsconnect/
 
 # Course files
 course/
+.DS_Store
